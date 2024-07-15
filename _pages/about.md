@@ -13,11 +13,11 @@ I am skilled in extracting and analyzing data, and I have over two years of expe
 
 Education
 ======
-- **Hong Kong University of Science and Technology**
+- **Hong Kong University of Science and Technology**\
     PhD in Computer Science and Engineering
     *September 2024 to Present*
 
-- **University of Toronto**
+- **University of Toronto**\
     BSc in Data Science Specialist 
     BSc in Statistics Major
     GPA: 3.9
@@ -25,12 +25,12 @@ Education
 
 Work/Intern Experience
 ======
-- **Fidelity Investments Canada, Toronto, Canada**
+- **Fidelity Investments Canada, Toronto, Canada**\
     *May 2022 to April 2023*
     Position: Machine Learning Analytics
     Project: Funds Recommendation System
 
-- **Apache IoTDB**
+- **Apache IoTDB**\
     *July 2020 to July 2021*
     Position: Database Assistant Intern
     Project: Session Python API, Data Importer
