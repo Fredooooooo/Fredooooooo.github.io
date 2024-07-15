@@ -24,9 +24,9 @@ author:
   avatar           : "profile.jpg"
   name             : "You Peng (Fred)"
   pronouns         : # example: "he/him"  
-  bio              : "PhD Student at HKUST"
+  bio              : "PhD Student in CSE at HKUST"
   location         : "Clear Water Bay, Hong Kong"
-  employer         : 
+  employer         : "Hong Kong University of Science and Technology"
   uri              : # URL
   email            : "fred_peng233@outlook.com" 
 
