@@ -37,12 +37,12 @@ Experience
 
 Publications
 ======
-- **TQA-Bench: Evaluating LLMs for Multi-Table Question Answering with Scalable Context and Symbolic Extension** (2024) 
-    *Zipeng Qiu, You Peng, Guangxin He, Binhang Yuan, Chen Wang*
+- **TQA-Bench: Evaluating LLMs for Multi-Table Question Answering with Scalable Context and Symbolic Extension** (2024)\
+    *Zipeng Qiu, You Peng, Guangxin He, Binhang Yuan, Chen Wang*\
     [Paper](https://doi.org/10.48550/arXiv.2411.19504)
 
-- **Zero-Indexing Internet Search Augmented Generation for Large Language Models** (2024)
-    *Guangxin He, Zonghong Dai, Jiangcheng Zhu, Binqiang Zhao, Qicheng Hu, Chenyue Li, You Peng, Chen Wang, Binhang Yuan*
+- **Zero-Indexing Internet Search Augmented Generation for Large Language Models** (2024)\
+    *Guangxin He, Zonghong Dai, Jiangcheng Zhu, Binqiang Zhao, Qicheng Hu, Chenyue Li, You Peng, Chen Wang, Binhang Yuan*\
     [Paper](https://doi.org/10.48550/arXiv.2411.19478)
 
 Hobbies
