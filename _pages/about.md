@@ -9,7 +9,7 @@ redirect_from:
 
 My name is You (Fred) Peng. I am a passionate PhD student in CSE at the Hong Kong University of Science and Technology (HKUST), supervised by Prof.Binhang Yuan. I got my BSc degrees in Data Science as well as Statistics from the University of Toronto (UofT).
 
-I am skilled in extracting and analyzing data, and I have over two years of experience in machine learning and data science. My research interest currently focused on database related LLM Agent and ML system.
+I am skilled in extracting and analyzing data, and I have over two years of experience in machine learning and data science. My research interest currently focused on database related LLM Agent and ML system. Besides AI and Data, I'm also interested in FinTech and preparing for the CFA Level II exam.
 
 Education
 ======
@@ -21,7 +21,7 @@ Education
     *September 2019 to June 2024*\
     BSc in Data Science Specialist\
     BSc in Statistics Major\
-    GPA: 3.9/4.0, 4 consecutive years of Dean's List Scholar
+    GPA: 3.9/4.0, four consecutive years of Dean's List Scholar
 
 Experience
 ======
@@ -37,7 +37,13 @@ Experience
 
 Publications
 ======
+- **TQA-Bench: Evaluating LLMs for Multi-Table Question Answering with Scalable Context and Symbolic Extension** (2024) 
+    *Zipeng Qiu, You Peng, Guangxin He, Binhang Yuan, Chen Wang*
+    [Paper](https://doi.org/10.48550/arXiv.2411.19504)
 
+- **Zero-Indexing Internet Search Augmented Generation for Large Language Models** (2024)
+    *Guangxin He, Zonghong Dai, Jiangcheng Zhu, Binqiang Zhao, Qicheng Hu, Chenyue Li, You Peng, Chen Wang, Binhang Yuan*
+    [Paper](https://doi.org/10.48550/arXiv.2411.19478)
 
 Hobbies
 ======
