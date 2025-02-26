@@ -5,28 +5,25 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-bibliography: publications.bib
-notice: |
-    @*
 ---
 
-I'm You Peng, can also be called Fred. I am a passionate PhD student in CSE at the Hong Kong University of Science and Technology (HKUST), supervised by Prof.Binhang Yuan. I got my BSc degrees in Data Science as well as Statistics from the University of Toronto (UofT).
+My name is You (Fred) Peng. I am a passionate PhD student in CSE at the Hong Kong University of Science and Technology (HKUST), supervised by Prof.Binhang Yuan. I got my BSc degrees in Data Science as well as Statistics from the University of Toronto (UofT).
 
-I am skilled in extracting and analyzing data, and I have over two years of experience in machine learning and data science. My research interest currently focused on LLM Agent and Database for ML.
+I am skilled in extracting and analyzing data, and I have over two years of experience in machine learning and data science. My research interest currently focused on database related LLM Agent and ML system.
 
 Education
 ======
 - **Hong Kong University of Science and Technology**\
-    PhD in Computer Science and Engineering\
-    *September 2024 to Present*
+    *September 2024 to Present*\
+    PhD in Computer Science and Engineering
 
 - **University of Toronto**\
+    *September 2019 to June 2024*\
     BSc in Data Science Specialist\
     BSc in Statistics Major\
-    GPA: 3.9\
-    *September 2019 to June 2024*
+    GPA: 3.9/4.0, 4 consecutive years of Dean's List Scholar
 
-Work/Intern Experience
+Experience
 ======
 - **Fidelity Investments Canada, Toronto, Canada**\
     *May 2022 to April 2023*\
@@ -40,7 +37,7 @@ Work/Intern Experience
 
 Publications
 ======
-{% raw %}{% bibliography %}{% endraw %}
+
 
 Hobbies
 ======

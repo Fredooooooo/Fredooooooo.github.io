@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Fred Peng"
+title                    : "You Peng 彭友"
 title_separator          : "-"
 name                     : &name "You Peng"
 description              : &description "personal description"
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : https://scholar.google.com/citations?user=OIgEG8AAAAAJ&hl=en
   impactstory      : # URL
   orcid            : # URL
   semantic         : # URL
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : linkedin.com/in/you-peng/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
