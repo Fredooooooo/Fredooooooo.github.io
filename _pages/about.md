@@ -5,6 +5,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+bibliography: publications.bib
+notice: |
+    @*
 ---
 
 I'm You Peng, can also be called Fred. I am a passionate PhD student in CSE at the Hong Kong University of Science and Technology (HKUST), supervised by Prof.Binhang Yuan. I got my BSc degrees in Data Science as well as Statistics from the University of Toronto (UofT).
@@ -34,6 +37,10 @@ Work/Intern Experience
     *July 2020 to July 2021*\
     Position: Database Assistant Intern\
     Project: Session Python API, Data Importer
+
+Publications
+======
+{% raw %}{% bibliography %}{% endraw %}
 
 Hobbies
 ======
