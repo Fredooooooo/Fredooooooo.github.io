@@ -9,7 +9,7 @@ redirect_from:
 
 My name is You (Fred) Peng. I am a passionate PhD student in CSE at the Hong Kong University of Science and Technology (HKUST), supervised by Prof.Binhang Yuan. I got my BSc degrees in Data Science as well as Statistics from the University of Toronto (UofT).
 
-I am skilled in extracting and analyzing data, and I have over two years of experience in machine learning and data science. My research interest currently focused on database related LLM Agent and ML system. Besides AI and Data, I'm also interested in FinTech and preparing for the CFA Level II exam.
+I am skilled in extracting and analyzing data, and I have over two years of experience in machine learning and data science. My research interest currently focused on database related LLM Agent and ML system. I'm also interested in FinTech and preparing for the CFA Level II exam.
 
 Education
 ======
