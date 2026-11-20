@@ -20,13 +20,13 @@
   </li>
   <li class="publication-item">
     <div class="paper-meta">
-      <span class="paper-badge paper-badge--accepted">IEEE TBD</span>
-      <span class="paper-status">Accepted</span>
+      <span class="paper-badge paper-badge--preprint">arXiv</span>
+      <span class="paper-status">2024</span>
     </div>
     <div class="paper-content">
       <p class="paper-title">TQA-Bench: Evaluating LLMs for Multi-Table Question Answering</p>
       <p class="paper-authors">Zipeng Qiu, Chenyue Li, <strong>You Peng</strong>, Guangxin He, Binhang Yuan, Chen Wang.</p>
-      <div class="paper-links"><span class="paper-venue">IEEE Transactions on Big Data</span><a class="paper-link" href="https://doi.org/10.48550/arXiv.2411.19504">Preprint</a></div>
+      <div class="paper-links"><a class="paper-link" href="https://doi.org/10.48550/arXiv.2411.19504">Paper</a></div>
     </div>
   </li>
   <li class="publication-item">
