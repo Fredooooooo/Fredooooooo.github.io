@@ -7,44 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-My name is You (Fred) Peng. I am a passionate PhD student in CSE at the Hong Kong University of Science and Technology (HKUST), supervised by Prof.Binhang Yuan. I got my BSc degrees in Data Science as well as Statistics from the University of Toronto (UofT).
+I am **You (Fred) Peng**, a PhD student in Computer Science and Engineering at The Hong Kong University of Science and Technology (HKUST), advised by Prof. Binhang Yuan. I received my B.Sc. from the University of Toronto, where I completed the Data Science Specialist and Statistics Major programs.
 
-I am skilled in extracting and analyzing data, and I have over two years of experience in machine learning and data science. My research interest currently focused on database related LLM Agent and ML system. I'm also interested in FinTech and preparing for the CFA Level II exam.
+My research focuses on **LLM serving, power-compute co-design, LLM agents, and data management**. I work on scheduling and resource management for LLM inference and agentic workflows, including heterogeneous serving systems and electricity-aware scheduling.
 
-Education
-======
-- **Hong Kong University of Science and Technology**\
-    *September 2024 to Present*\
-    PhD in Computer Science and Engineering
+I am currently a research intern at **WeBank**. Previously, I interned at **Alibaba Cloud** and **Fidelity Investments Canada**.
 
-- **University of Toronto**\
-    *September 2019 to June 2024*\
-    BSc in Data Science Specialist\
-    BSc in Statistics Major\
-    GPA: 3.9/4.0, four consecutive years of Dean's List Scholar
+## Publications
 
-Experience
-======
-- **Fidelity Investments Canada, Toronto, Canada**\
-    *May 2022 to April 2023*\
-    Position: Machine Learning Analytics\
-    Project: Funds Recommendation System
+{% include publications.md %}
 
-- **Apache IoTDB**\
-    *July 2020 to July 2021*\
-    Position: Database Assistant Intern\
-    Project: Session Python API, Data Importer
+{% include resume-details.md %}
 
-Publications
-======
-- **TQA-Bench: Evaluating LLMs for Multi-Table Question Answering with Scalable Context and Symbolic Extension** (2024)\
-    *Zipeng Qiu, You Peng, Guangxin He, Binhang Yuan, Chen Wang*\
-    [Paper](https://doi.org/10.48550/arXiv.2411.19504)
+## Beyond Research
 
-- **Zero-Indexing Internet Search Augmented Generation for Large Language Models** (2024)\
-    *Guangxin He, Zonghong Dai, Jiangcheng Zhu, Binqiang Zhao, Qicheng Hu, Chenyue Li, You Peng, Chen Wang, Binhang Yuan*\
-    [Paper](https://doi.org/10.48550/arXiv.2411.19478)
-
-Hobbies
-======
-I like fencing and playing badminton for sports. And I also love movies and R&B music. There's a quote in my favourite movie Interstellar says: "Mankind was born on Earth. It was never meant to die here." It was about exploring the space but it reminds us that our destiny lies beyond our current limitations, whether in space or through AI. I'm ready to take part in pushing the boundaries of AI.
+I enjoy fencing, badminton, movies, and R&B music. *Interstellar* is one of my favorite films. I am also interested in FinTech and am a CFA Level II candidate.
