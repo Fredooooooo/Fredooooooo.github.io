@@ -2,23 +2,24 @@
 permalink: /
 title: "About Me"
 author_profile: true
+profile_layout: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am **You (Fred) Peng**, a PhD student in Computer Science and Engineering at The Hong Kong University of Science and Technology (HKUST), advised by Prof. Binhang Yuan. I received my B.Sc. from the University of Toronto, where I completed the Data Science Specialist and Statistics Major programs.
+I am **You (Fred) Peng**, a PhD student in Computer Science and Engineering at **HKUST**, advised by Prof. Binhang Yuan. Previously, I received my B.Sc. from the University of Toronto.
 
-My research focuses on **LLM serving, power-compute co-design, LLM agents, and data management**. I work on scheduling and resource management for LLM inference and agentic workflows, including heterogeneous serving systems and electricity-aware scheduling.
+I build systems for **efficient LLM serving and agentic workflows**. My research spans scheduling, heterogeneous resource management, power-compute co-design, and data management. I am currently a research intern at WeBank, following internships at Alibaba Cloud and Fidelity Investments Canada.
 
-I am currently a research intern at **WeBank**. Previously, I interned at **Alibaba Cloud** and **Fidelity Investments Canada**.
+<p class="profile-links"><a href="{{ '/cv/' | relative_url }}">Full CV</a><a href="{{ site.author.googlescholar }}">Google Scholar</a><a href="mailto:{{ site.author.email }}">Email</a></p>
 
 ## Publications
 
 {% include publications.md %}
 
-{% include resume-details.md %}
+{% include profile-details.html %}
 
 ## Beyond Research
 
-I enjoy fencing, badminton, movies, and R&B music. *Interstellar* is one of my favorite films. I am also interested in FinTech and am a CFA Level II candidate.
+Outside research, I enjoy fencing, badminton, movies, and R&B music. *Interstellar* is one of my favorite films.
